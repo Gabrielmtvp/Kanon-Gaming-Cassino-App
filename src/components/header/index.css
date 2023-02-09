@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1rem 0.5rem 1rem;
+    border-bottom: .1px solid #3d3d3d;
+    color: white;
+    font-size: 1rem;
+}
+
+.header .logout span {
+    cursor: pointer;
+}
