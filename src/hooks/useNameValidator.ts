@@ -1,7 +1,6 @@
 const useEmailValidation = (name: string, setName: any, setNameError: any) => {
   setNameError('');
 
-  console.log(name.length);
   if (!name || name.length >= 19) {
     setNameError('Name cannot be empty or more than 19 characteres');
   }
