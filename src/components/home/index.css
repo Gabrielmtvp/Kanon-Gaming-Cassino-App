@@ -57,14 +57,14 @@
 }
 
 .homeContainer .cassino {
-    background-image: url('../../assets/fruitfire.png');
+    background-image: url('/public/fruitFire.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
 }
 
 .homeContainer .games {
-    background-image: url('../../assets/moregames.png');
+    background-image: url('/public/moreGames.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
