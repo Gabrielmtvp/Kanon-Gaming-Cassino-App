@@ -60,14 +60,14 @@
     background-image: url('/public/fruitFire.png');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: contain; 
 }
 
 .homeContainer .games {
     background-image: url('/public/moreGames.png');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: contain; 
 }
 
 @media only screen and (max-width: 600px) {
