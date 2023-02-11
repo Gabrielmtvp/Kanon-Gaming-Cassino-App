@@ -4,7 +4,7 @@
             { "source": "/", "destination": "/" }, 
             { "source": "/(.*)", "destination": "/"}, 
             { "source": "/login", "destination": "/login" }, 
-            { "source": "/register", "destination": "register" }, 
+            { "source": "/register", "destination": "/register" }, 
             { "source": "/home", "destination": "/home" }, 
             { "source": "/games", "destination": "/games" },
             { "source": "/slotmachine", "destination": "/slotmachine" } 
