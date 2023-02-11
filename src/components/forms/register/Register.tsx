@@ -23,7 +23,7 @@ function Register() {
     e.preventDefault();
 
     await axios
-      .post(`${import.meta.env.VITE_API_BASE_URL_VERCEL}user/register`, {
+      .post(`${import.meta.env.VITE_API_BASE_URL}user/register`, {
         name,
         email,
         password,
