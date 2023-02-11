@@ -31,7 +31,7 @@ function Login() {
     e.preventDefault();
 
     await axios
-      .post(`${import.meta.env.VITE_API_BASE_URL}user/authenticate`, {
+      .post(`${import.meta.env.VITE_API_BASE_URL}/user/authenticate`, {
         email,
         password,
       })
