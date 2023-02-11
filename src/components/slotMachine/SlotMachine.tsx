@@ -118,11 +118,7 @@ function SlotMachine() {
           </div>
         </div>
 
-        <div
-          className={!rolling ? 'roll rolling' : 'roll'}
-          onClick={roll}
-          // disabled={rolling}
-        >
+        <div className={!rolling ? 'roll rolling' : 'roll disabledButton'} onClick={roll}>
           {rolling ? 'ROLLING' : 'ROLL'}
         </div>
 
