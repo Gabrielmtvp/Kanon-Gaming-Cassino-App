@@ -47,9 +47,6 @@ function Login() {
         }
       })
       .catch((error) => {
-        console.log(error);
-        console.log('fewfewfw');
-        setMsg('teste');
         if (error.response.status == 400) {
           setMsg(error.response.data.error);
           setType('error');

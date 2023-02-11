@@ -57,17 +57,17 @@
 }
 
 .homeContainer .cassino {
-    background-image: url('http://images.ctfassets.net/5acrbcz937qe/5V175DBuWRuhStWnol5OO7/c6d703f891236604a3a85477bdbe7c0d/UltraHold_Spin_280x280_DW.jpg');
+    background-image: url('../../assets/fruitfire.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
 }
 
 .homeContainer .games {
-    background-image: url('https://kanongaming.com/wp-content/uploads/2022/11/KanonGaming100x60-01-1.png');
+    background-image: url('../../assets/moregames.png');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: fit; 
+    background-size: cover; 
 }
 
 @media only screen and (max-width: 600px) {
