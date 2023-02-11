@@ -1,20 +1,22 @@
-# Vite + React + Typescript + Eslint + Prettier
 
+# Vite + React + Typescript + Redux + Eslint + Prettier + Supabase + Vercel
+
+<div align="center">
 A starter for React with Typescript with the fast Vite and all static code testing with Eslint and formatting with Prettier.
 
-![Vite + React + Typescript + Eslint + Prettier](/public/screenshot.png)
+You can enjoy using this link below </br>
+https://kanon-gaming-cassino-app.vercel.app/
+</div>
 
-I found out about Vite and I wanted to have a boilerplate for the technologies that I use. You can find more about these in the following links: [Vite](https://github.com/vitejs/vite), [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [Eslint](https://eslint.org/), [Prettier](https://prettier.io/).
+![Vite + React + Typescript + Redux + Eslint + Prettier](https://imgur.com/1Rp2Pvu.png)
+
+You can find more about these in the following links: [Vite](https://github.com/vitejs/vite), [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [Eslint](https://eslint.org/), [Prettier](https://prettier.io/).
 
 ## Installation
 
-Clone the repo and run `yarn install`
+Clone the repo and run 
 
-or Run command
-
-```
-npx degit TheSwordBreaker/vite-reactts-eslint-prettier project-name
-```
+`yarn install`
 
 ## Start
 
@@ -32,6 +34,6 @@ After the successfull installation of the packages: `yarn dev`
 
 ![Screenshot (253)_LI](https://user-images.githubusercontent.com/52120562/162486286-7383a737-d555-4f9b-a4dd-c4a81deb7b96.jpg)
 
-If Everything is Good Then It Should Work, but let me new if something else happens
+If Everything is Good Then It Should Work, but let me know if something else happens
 
-Made with ❤️ by theSwordBreaker(we Destory all types of sword ⚡)
+Made with ❤️ by me ⚡
